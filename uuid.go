@@ -1,4 +1,4 @@
-package random
+package chance
 
 import (
 	"github.com/nu7hatch/gouuid"
